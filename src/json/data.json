@@ -1,0 +1,45 @@
+ {"contacts":[
+        { "firstName":"John" },
+        { "firstName":"Anna"},
+        { "firstName":"Peter"},
+        { "firstName":"Mary" }
+      ],
+       "DUMMY_DATA_john" : [
+        {
+          "senderId": "John",
+          "text": "let's book a movie ticket"
+        },
+        {
+          "senderId": "tithi",
+          "text": "sure. What movie you want to see"
+        }],
+        "DUMMY_DATA_Anna" : [
+         {
+           "senderId": "Anna",
+           "text": "Going ofyc tommorrow?"
+         },
+         {
+           "senderId": "tithi",
+           "text": "Not Sure"
+         }
+       ],
+       "DUMMY_DATA_Peter" : [
+        {
+          "senderId": "Peter",
+          "text": "long time,no see. How are you"
+        },
+        {
+          "senderId": "tithi",
+          "text": "I am good. Tell me about you"
+        }
+      ],
+      "DUMMY_DATA_Mary" : [
+        {
+          "senderId": "Mary",
+          "text": "Hi Sister,I will be late. Inform mother about it"
+        },
+        {
+          "senderId": "tithi",
+          "text": "Sure"
+        }
+      ]}
